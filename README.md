@@ -1,4 +1,4 @@
-# Drone_from_Scratch
+# Obstacle Avoidance implemented on UAV
 
 Convert a manual drone to autonomous one
 
