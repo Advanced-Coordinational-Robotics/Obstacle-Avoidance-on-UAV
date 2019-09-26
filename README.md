@@ -14,7 +14,7 @@ catkin_make
 Now clone the packages to your desired directory.
 ```
 cd (Your directory)
-https://github.com/Shubham-Sahoo/Drone_from_Scratch.git
+https://github.com/acr-iitkgp/Obstacle-Avoidance-on-UAV.git
 ```
 
 Install the Firmware package in your companion system from - https://github.com/PX4/avoidance
